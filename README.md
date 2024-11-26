@@ -1,4 +1,6 @@
 # tboi_p2p
+![Untitled design](https://img.shields.io/github/downloads/KoNLiG/tboi_p2p/total.svg)
+
 Exposes The Binding of Isaac online P2P network connections.
 
 Inspired by randoms insta picking up sacred heart.
